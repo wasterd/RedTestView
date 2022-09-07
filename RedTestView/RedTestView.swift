@@ -1,5 +1,5 @@
 //
-//  ReadView.swift
+//  RedTestView.swift
 //  RedTestView
 //
 //  Created by ya Liu on 2022/9/7.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ReadView: UIView {
+class RedTestView: UIView {
 
     var label: UILabel!
         
